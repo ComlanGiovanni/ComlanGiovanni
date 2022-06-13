@@ -1,8 +1,6 @@
 <img align="center"  width="900" height="200" src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)
-
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues" alt="GitHub stats" />
