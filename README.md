@@ -16,7 +16,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark)
 
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spotify Live View
 
