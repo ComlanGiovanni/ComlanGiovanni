@@ -9,9 +9,11 @@
 </a>
 </p>
 
+<p align='center'><b>Most Used Languages</b></p>
+
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
 </a>
 </p>
 
