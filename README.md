@@ -6,7 +6,7 @@
  |_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
                                                     
 ```
-<img align="center" width="900" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
+<img align="center" width="300" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
 <br/>
 <br/>
 <br/>
@@ -14,9 +14,9 @@
 <br/>
 <br/>
 
-[![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=highcontrast)
+[!(https://github-readme-stats.vercel.app/api?username=ComlanGiovanni)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
+[!(https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spotify Live View
 
