@@ -17,8 +17,7 @@
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
-<img align='center' src="https://profile-counter.glitch.me/ComlanGiovanni/count.svg" alt="Visitor Count" />
-
+<img src="https://profile-counter.glitch.me/ComlanGiovanni/count.svg" alt="Paris" class="center">
 
 <!---
 https://giphy.com/
