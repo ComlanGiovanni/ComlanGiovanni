@@ -17,11 +17,7 @@
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
-<p align='center'>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit..." alt="gcomlan's 42 stats" />
-</a>
-</p>
+<img align='center' src="https://profile-counter.glitch.me/ComlanGiovanni/count.svg" alt="Visitor Count" />
 
 
 <!---
