@@ -6,6 +6,7 @@
 <p align='center'>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48" alt="gcomlan's 42 stats" /></a>
 </p>
+
 ### Spotify Live View
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true)
