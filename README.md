@@ -13,9 +13,13 @@
 ### Github Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/ComlanGiovanni/count.svg)
+
+<div style="text-align: center;">
+
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
+</div>
 <!---
 https://giphy.com/
 https://readme-typing-svg.herokuapp.com/demo/
