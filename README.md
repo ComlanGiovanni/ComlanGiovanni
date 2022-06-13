@@ -22,11 +22,11 @@
 </div>
 
 <img 
-    style="display: block; 
+    style="display: block;
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit..." 
+    src="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit..."
     alt="Our logo">
 </img>
 <!---
