@@ -3,6 +3,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)
 
+<p align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues" alt="GitHub stats" />
+</a>
+</p>
+
 
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
