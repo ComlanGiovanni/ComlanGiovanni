@@ -7,16 +7,15 @@
 </a>
 </p>
 
-
 <p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark" alt="Top Langs" />
+<a href="https://github.com/JaeSeoKim/badge42">
+<img src="https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48" alt="gcomlan's 42 stats" />
 </a>
 </p>
 
 <p align='center'>
-<a href="https://github.com/JaeSeoKim/badge42">
-<img src="https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48" alt="gcomlan's 42 stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark" alt="Top Langs" />
 </a>
 </p>
 
