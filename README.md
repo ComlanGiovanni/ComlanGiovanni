@@ -14,12 +14,19 @@
 <br/>
 <br/>
 
+[![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
+
+### Spotify Live View
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true)
 
-## Visitor Count
+### Github Profile Views
+
 ![Visitor Count](https://profile-counter.glitch.me/ComlanGiovanni/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
 <!---
 https://giphy.com/
