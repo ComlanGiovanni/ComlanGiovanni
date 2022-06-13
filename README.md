@@ -1,8 +1,8 @@
-<img align="center" width="900" height="250" src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" />
+<img align="center" src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" />
 <br/>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spotify Live View
 
