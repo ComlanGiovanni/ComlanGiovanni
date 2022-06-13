@@ -11,7 +11,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true)
 
-<p align='right'> Github Profile Views </p>
+<p align='right'><b>Github Profile Views</b></p>
 
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/ComlanGiovanni/count.svg" alt="Visitor Count">
