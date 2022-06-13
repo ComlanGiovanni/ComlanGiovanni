@@ -9,7 +9,13 @@
 <img align="right" width="500" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Spotify Live View
+[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true)
 
 ## Visitor Count
