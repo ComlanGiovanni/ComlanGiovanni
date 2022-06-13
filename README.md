@@ -10,11 +10,8 @@
 ### Spotify Live View
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true)
-### Github Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/ComlanGiovanni/count.svg)
-
-<p style="text-align: right"> Github Profile Views </p>
+<p align='right'> Github Profile Views </p>
 
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/ComlanGiovanni/count.svg" alt="Visitor Count">
