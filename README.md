@@ -3,7 +3,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+
 [![gcomlan's 42 stats](https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+
+<p/>
 
 ### Spotify Live View
 
