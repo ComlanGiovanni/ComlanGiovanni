@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=contribs,issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spotify Live View
 
