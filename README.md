@@ -3,9 +3,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Spotify Live View
+### Spotify Live
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true)[![gcomlan's 42 stats](https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)[![gcomlan's 42 stats](https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 ### Github Profile Views
 
