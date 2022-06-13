@@ -6,7 +6,7 @@
  |_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
                                                     
 ```
-<img align="right" width="500" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
+<img align="center" width="900" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
 <br/>
 <br/>
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-[![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=highcontrast)
+[![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
 
@@ -25,7 +25,7 @@
 ### Github Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/ComlanGiovanni/count.svg)
-
+##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
 <!---
