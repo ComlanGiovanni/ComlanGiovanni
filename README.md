@@ -1,4 +1,4 @@
-<img align="center"  width="900" height="200" src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" />
+<img align="center"  width="900" height="200" src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" />
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
