@@ -5,7 +5,7 @@
 
 ### Spotify Live
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)[![gcomlan's 42 stats](https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11169899709&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]](https://github.com/kittinan/spotify-github-profile)[![gcomlan's 42 stats](https://badge42.vercel.app/api/v2/cl4d7ypa5004009l93h57346v/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 ### Github Profile Views
 
