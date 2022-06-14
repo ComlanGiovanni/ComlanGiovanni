@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" />
+<img align="center"  width="900" height="200" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
 <br/>
 
 <p align='center'><b>42 Badge</b></p>
