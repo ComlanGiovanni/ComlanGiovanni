@@ -2,8 +2,6 @@
 <br/>
 
 <h3 align="center">Skills / Tools</h3>
-<h3 align="center">Social Network</h3>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
@@ -45,10 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
-
-###
+<h3 align="center">Social Network</h3>
 
 <div align="center">
   <a href="giovannil.comlan@yahoo.fre" target="_blank">
